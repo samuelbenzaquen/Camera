@@ -1,5 +1,4 @@
 # Camera
-RPi Camera
 
 sudo nano  /etc/init.d/ustream
 
