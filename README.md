@@ -14,3 +14,4 @@ done
 sudo chmod 755 /etc/init.d/ustream
 sudo update-rc.d ustream defaults
 sudo reboot
+
